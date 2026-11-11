@@ -39,7 +39,7 @@ Los comentarios del código propio están en español y son breves. Las explicac
 
 ## 1. Tecnologías y responsabilidades
 
-Las versiones indicadas son las declaradas en los manifiestos, no una promesa de compatibilidad con cualquier versión posterior. Los archivos package-lock fijan la instalación reproducible.
+Las versiones indicadas son las declaradas en los manifiestos no una promesa de compatibilidad con cualquier versión posterior. Los archivos package-lock fijan la instalación reproducible.
 
 | Tecnología | Versión declarada | Para qué se utiliza |
 | --- | --- | --- |
